@@ -1,0 +1,11 @@
+manifestVersion: 1
+id: minecraft-server
+name: Minecraft Server
+tagline: Minecraft Server Java Edition
+icon: https://imgur.com/6AIze8F
+category: Gaming
+version: ""
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
