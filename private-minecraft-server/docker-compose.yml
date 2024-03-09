@@ -7,8 +7,5 @@ services:
       EULA: "true"
     ports:
       - "25565:25565"
-    stdin_open: true
-    tty: true
-    restart: unless-stopped
     volumes:
       - /home/harald/minecraft:/data
