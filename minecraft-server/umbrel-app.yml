@@ -2,9 +2,21 @@ manifestVersion: 1
 id: minecraft-server
 name: Minecraft Server
 tagline: Minecraft Server Java Edition
-icon: https://imgur.com/6AIze8F
+icon: https://svgur.com/i/mvA.svg
 category: Gaming
-version: ""
+version: "1.0.0"
+description: ""
+developer: ""
+website: ""
+submitter: ""
+submission: ""
+repo: ""
+support: ""
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: ""
 dependencies: []
 path: ""
 defaultUsername: ""
